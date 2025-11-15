@@ -59,4 +59,4 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ## 3️⃣ End-of-Day Reflection
 
-> “Today I learned that AI isn’t replacing developers — it’s redefining them. The 2025 Turning Point showed me that coding is no longer just about writing syntax; it’s about reasoning, collaboration, and strategy. Using AI effectively means guiding it with clear instructions and focusing on planning and design rather than typing every line of code.”
+> “Today I learned that AI isn’t replacing developers  it’s redefining them. The 2025 Turning Point showed me that coding is no longer just about writing syntax; it’s about reasoning, collaboration, and strategy. Using AI effectively means guiding it with clear instructions and focusing on planning and design rather than typing every line of code.”
