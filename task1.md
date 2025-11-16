@@ -9,10 +9,10 @@
 
 
 
-**Q1: What does AI-Driven Development mean to you?**  
+**Q1: What does AI-Driven Development mean to me?**  
 AI-Driven Development means using AI tools to help developers write, improve, and manage code. Instead of typing every line themselves, developers give clear instructions to AI agents, which then create the software. This makes coding faster, more reliable, and less prone to mistakes. AI becomes like a helpful teammate, allowing developers to focus on problem-solving and planning rather than repetitive tasks.
 
-**Q2: How do you see the future of Human–AI Collaboration in software development?**  
+**Q2: How do i see the future of Human–AI Collaboration in software development?**  
 In the future, humans and AI will work closely as a team. AI can handle repetitive or complex tasks, while humans guide it with clear instructions and check its work. Developers will focus more on thinking, designing, and coordinating AI agents. This teamwork will make software development faster, more creative, and scalable. Human–AI collaboration will turn developers into strategists rather than just coders.
 
 ---
