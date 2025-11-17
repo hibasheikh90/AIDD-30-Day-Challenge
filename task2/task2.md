@@ -41,7 +41,7 @@ A : Thinking in layers ensures the system is organized, scalable, and easy to ma
 ![Prompt](./prompt.jpeg)
 
 2️⃣ **AI-Generated Specification**  
-![AI Output](./Aloutput.jpeg)
+![AI Output](./output.jpeg)
 
  
 
