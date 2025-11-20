@@ -28,7 +28,7 @@ It provides stronger understanding across images, text, documents, and video  in
 
 # 🌟 PART B  Practical Task (Gemini CLI 3.0 Installation)
 
-Below is the installation screenshot:
+ 
 
 ![Gemini CLI Installation](./gemini.jpeg)
 
