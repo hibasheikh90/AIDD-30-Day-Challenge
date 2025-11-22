@@ -1,11 +1,11 @@
-# 🧠 AIDD 30-Day Challenge  Task 1
+#  AIDD 30-Day Challenge  Task 1
 
  
  
 
 ---
 
-## 1️⃣ Reflection Essay
+##  Reflection Essay
 
 
 
@@ -17,9 +17,9 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ---
 
-## 2️⃣ Self-Test MCQs
+## 2 Self-Test MCQs
 
-### 1️⃣ What is the main purpose of the AI-Native Era?
+### 1 What is the main purpose of the AI-Native Era?
 - a) Replace developers  
 - **b) Empower developers through AI tools ✅**  
 - c) Eliminate coding  
@@ -27,7 +27,7 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ---
 
-### 2️⃣ What defines an AI-driven developer?
+### 2 What defines an AI-driven developer?
 - a) Writes only syntax  
 - **b) Creates context-aware prompts ✅**  
 - c) Avoids tools  
@@ -35,7 +35,7 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ---
 
-### 3️⃣ What does “AIDD” stand for?
+### 3 What does “AIDD” stand for?
 - a) AI-Integrated Data Design  
 - **b) AI-Driven Development ✅**  
 - c) Automated IDE Deployment  
@@ -43,7 +43,7 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ---
 
-### 4️⃣ What is the focus of Evaluation-Driven Development (EvDD)?
+### 4 What is the focus of Evaluation-Driven Development (EvDD)?
 - a) Manual coding  
 - **b) Evaluating and improving AI outputs ✅**  
 - c) UI design  
@@ -51,12 +51,12 @@ In the future, humans and AI will work closely as a team. AI can handle repetiti
 
 ---
 
-### 5️⃣ What should developers focus on in the AI era?
+### 5 What should developers focus on in the AI era?
 - a) Syntax only  
 - **b) Building reasoning + evaluation skills ✅**  
 - c) Avoiding AI tools  
 - d) Manual workflows 
 
-## 3️⃣ End-of-Day Reflection
+## 3 End-of-Day Reflection
 
 > “Today I learned that AI isn’t replacing developers it’s redefining them. The 2025 Turning Point showed me that coding is no longer just about writing syntax; it’s about reasoning, collaboration, and strategy. Using AI effectively means guiding it with clear instructions and focusing on planning and design rather than typing every line of code.”

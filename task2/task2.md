@@ -2,7 +2,7 @@
 
 ---
 
-## 📁 Part A  Theory (Short Questions)
+##  Part A  Theory (Short Questions)
 
 ### 1. Nine Pillars Understanding
 
@@ -35,19 +35,19 @@ A : Thinking in layers ensures the system is organized, scalable, and easy to ma
 
 ---
 
-## 📁 Part B  Practical Task
+##  Part B  Practical Task
 
-1️⃣ **CLI Prompt**  
+ **CLI Prompt**  
 ![Prompt](./prompt.jpeg)
 
-2️⃣ **AI-Generated Specification**  
+ **AI-Generated Specification**  
 ![AI Output](./output.jpeg)
 
  
 
 ---
 
-## 📁 Part C  Multiple Choice Questions
+##  Part C  Multiple Choice Questions
 
 1. **What is the main purpose of Specification-Driven Development?**  
  
@@ -76,7 +76,7 @@ A : Thinking in layers ensures the system is organized, scalable, and easy to ma
 
 ---
 
-## 🌟 Reflection
+##  Reflection
 
 AI-driven development is changing the way developers work. With the **Nine Pillars, Specification-Driven Development, and AI agents**, coding is no longer just typing it’s about:  
 - **Thinking strategically**  
