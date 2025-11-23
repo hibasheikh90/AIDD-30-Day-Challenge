@@ -1,0 +1,22 @@
+{
+  "ide": {
+    "hasSeenNudge": true
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "mcpServers": {
+      "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"],
+      "env": {
+        "CONTEXT7_API_KEY": "ctx7sk-950af30d-484f-4a01-8958-dfb9c3dc9240"
+      }
+    }
+  },
+  "general": {
+    "previewFeatures": true
+  }
+}
