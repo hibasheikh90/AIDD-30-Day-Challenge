@@ -1,6 +1,5 @@
 streamlit
-pypdf
-python-dotenv
 google-generativeai
+python-dotenv
+PyPDF2
 requests
-
