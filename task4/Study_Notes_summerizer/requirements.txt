@@ -2,4 +2,5 @@ streamlit
 pypdf
 python-dotenv
 google-generativeai
+requests
 
