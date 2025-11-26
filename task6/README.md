@@ -10,13 +10,13 @@ Repository for Task 6 of the AIDD 30-Day Challenge.
 
 ---
 
-##  settings.json
+##  Settings.json
 
 ![settings json](./json.jpeg)
 
 ---
 
-##  /mcp list result
+##  MCP list result
 
 ![mcp list result](./mcp.png)
 ![mcp list result](./list.png)
